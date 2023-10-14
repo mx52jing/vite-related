@@ -1,0 +1,1 @@
+console.log('main.js', import.meta.env)

@@ -2,11 +2,9 @@ lockfileVersion: 5.4
 
 specifiers:
   '@types/node': ^20.8.6
-  lodash-es: ^4.17.21
   vite: ^4.4.11
 
 dependencies:
-  lodash-es: 4.17.21
   vite: 4.4.11_@types+node@20.8.6
 
 devDependencies:
@@ -254,10 +252,6 @@ packages:
     requiresBuild: true
     dev: false
     optional: true
-
-  /lodash-es/4.17.21:
-    resolution: {integrity: sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==}
-    dev: false
 
   /nanoid/3.3.6:
     resolution: {integrity: sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==}
