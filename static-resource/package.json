@@ -1,5 +1,5 @@
 {
-  "name": "handle-style",
+  "name": "static-resource",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,11 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vite": "^4.4.11"
+    "vite": "^4.5.0"
   },
   "devDependencies": {
-    "@types/node": "^20.8.6",
-    "autoprefixer": "^10.4.16",
-    "sass": "^1.69.3"
+    "@types/node": "^20.8.7"
   }
 }

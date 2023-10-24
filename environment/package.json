@@ -8,6 +8,7 @@
     "dev:test": "vite --mode test",
     "build": "vite build",
     "build:test": "vite build --mode test",
+    "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

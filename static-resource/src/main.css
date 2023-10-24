@@ -1,0 +1,7 @@
+@import "@assets/style/common.css";
+.bg-img-box {
+    width: 200px;
+    height: 200px;
+    background: url("@assets/image/dog1.webp") no-repeat;
+    background-size: cover;
+}
